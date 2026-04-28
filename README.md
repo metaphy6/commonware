@@ -1,2 +1,2 @@
 # commonware
-An Open Source Decenterialized Physical Infrastructure Network Project: Common Compute 
+An Open Source Decentralized Physical Infrastructure Network Project: Common (Hard) Ware
